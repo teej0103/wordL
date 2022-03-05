@@ -73,3 +73,11 @@ h1 {
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: 3;
 }
+
+#enter {
+    grid-row-start: 3;
+}
+
+#z {
+    grid-column-start: z;
+}
